@@ -394,3 +394,4 @@ FodyWeavers.xsd
 *.link
 shortcut/
 src/Properties/
+*.lnk
